@@ -1,0 +1,301 @@
+Tipo de gasto,Entidad,Apropiación a precios corrientes,Código de entidad,Código del sector,Sector
+FUNCIONAMIENTO,Congreso de la república,1112522000000.0,101,1.0,Congreso de la república
+DEUDA,Congreso de la república,1106000000.0,101,1.0,Congreso de la república
+INVERSIÓN,Congreso de la república,200000000000.0,101,1.0,Congreso de la república
+FUNCIONAMIENTO,Presidencia de la república,452841786933.0,201,2.0,Presidencia de la república
+INVERSIÓN,Presidencia de la república,168668164194.0,201,2.0,Presidencia de la república
+FUNCIONAMIENTO,"Agencia presidencial de cooperación internacional de colombia, apc - colombia",48822000000.0,209,2.0,Presidencia de la república
+INVERSIÓN,"Agencia presidencial de cooperación internacional de colombia, apc - colombia",102440560000.0,209,2.0,Presidencia de la república
+FUNCIONAMIENTO,Unidad nacional para la gestión del riesgo de desastres,707832000000.0,211,2.0,Presidencia de la república
+INVERSIÓN,Unidad nacional para la gestión del riesgo de desastres,17000000000.0,211,2.0,Presidencia de la república
+FUNCIONAMIENTO,Agencia para la reincorporación y la normalización - arn,88859084174.0,212,2.0,Presidencia de la república
+INVERSIÓN,Agencia para la reincorporación y la normalización - arn,2200000000.0,212,2.0,Presidencia de la república
+FUNCIONAMIENTO,Agencia nacional inmobiliaria virgilio barco vargas,11856000000.0,213,2.0,Presidencia de la república
+INVERSIÓN,Agencia nacional inmobiliaria virgilio barco vargas,24000000000.0,213,2.0,Presidencia de la república
+FUNCIONAMIENTO,Agencia de renovación del territorio - art,74833000000.0,1719,17.0,Agricultura y desarrollo rural
+INVERSIÓN,Agencia de renovación del territorio - art,65000000000.0,1719,17.0,Agricultura y desarrollo rural
+FUNCIONAMIENTO,Departamento administrativo nacional de planeación,121110968620.0,301,3.0,Planeación
+INVERSIÓN,Departamento administrativo nacional de planeación,643371314128.0,301,3.0,Planeación
+FUNCIONAMIENTO,Unidad administrativa especial - agencia nacional de contratación pública - colombia compra eficiente,25808823411.0,303,3.0,Planeación
+INVERSIÓN,Unidad administrativa especial - agencia nacional de contratación pública - colombia compra eficiente,94683000000.0,303,3.0,Planeación
+FUNCIONAMIENTO,Superintendencia de servicios públicos domiciliarios,354424083800.0,324,3.0,Planeación
+INVERSIÓN,Superintendencia de servicios públicos domiciliarios,38078000000.0,324,3.0,Planeación
+FUNCIONAMIENTO,Departamento administrativo nacional de estadística (dane),153718925120.0,401,4.0,Información estadistíca
+INVERSIÓN,Departamento administrativo nacional de estadística (dane),194597506983.0,401,4.0,Información estadistíca
+FUNCIONAMIENTO,Fondo rotatorio del dane,2744000000.0,402,4.0,Información estadistíca
+INVERSIÓN,Fondo rotatorio del dane,103542006932.0,402,4.0,Información estadistíca
+FUNCIONAMIENTO,Instituto geográfico agustín codazzi - igac,119056000000.0,403,4.0,Información estadistíca
+INVERSIÓN,Instituto geográfico agustín codazzi - igac,600485461000.0,403,4.0,Información estadistíca
+FUNCIONAMIENTO,Departamento administrativo de la función pública,34103299265.0,501,5.0,Empleo público
+INVERSIÓN,Departamento administrativo de la función pública,15000356199.0,501,5.0,Empleo público
+FUNCIONAMIENTO,Escuela superior de administración pública (esap),145292167438.0,503,5.0,Empleo público
+INVERSIÓN,Escuela superior de administración pública (esap),272535702975.0,503,5.0,Empleo público
+FUNCIONAMIENTO,Ministerio de relaciones exteriores,768975000000.0,1101,11.0,Relaciones exteriores
+FUNCIONAMIENTO,Fondo rotatorio del ministerio de relaciones exteriores,880003000000.0,1102,11.0,Relaciones exteriores
+INVERSIÓN,Fondo rotatorio del ministerio de relaciones exteriores,142749930347.0,1102,11.0,Relaciones exteriores
+FUNCIONAMIENTO,Unidad administrativa especial migración colombia,252961000000.0,1104,11.0,Relaciones exteriores
+INVERSIÓN,Unidad administrativa especial migración colombia,50649000000.0,1104,11.0,Relaciones exteriores
+FUNCIONAMIENTO,Ministerio de justicia y del derecho,164176400000.0,1201,12.0,Justicia y el derecho
+INVERSIÓN,Ministerio de justicia y del derecho,73125091530.0,1201,12.0,Justicia y el derecho
+FUNCIONAMIENTO,Superintendencia de notariado y registro,721531000000.0,1204,12.0,Justicia y el derecho
+INVERSIÓN,Superintendencia de notariado y registro,297617170025.0,1204,12.0,Justicia y el derecho
+FUNCIONAMIENTO,Instituto nacional penitenciario y carcelario - inpec,2162793720000.0,1208,12.0,Justicia y el derecho
+INVERSIÓN,Instituto nacional penitenciario y carcelario - inpec,6432700000.0,1208,12.0,Justicia y el derecho
+FUNCIONAMIENTO,Unidad administrativa especial agencia nacional de defensa jurídica del estado,142920600000.0,1210,12.0,Justicia y el derecho
+INVERSIÓN,Unidad administrativa especial agencia nacional de defensa jurídica del estado,12266327000.0,1210,12.0,Justicia y el derecho
+FUNCIONAMIENTO,Unidad de servicios penitenciarios y carcelarios - uspec,1521986600000.0,1211,12.0,Justicia y el derecho
+INVERSIÓN,Unidad de servicios penitenciarios y carcelarios - uspec,417850199304.0,1211,12.0,Justicia y el derecho
+FUNCIONAMIENTO,Ministerio de hacienda y crédito público,27138681900960.0,1301,13.0,Hacienda
+INVERSIÓN,Ministerio de hacienda y crédito público,3611995766423.0,1301,13.0,Hacienda
+FUNCIONAMIENTO,Unidad administrativa especial contaduría general de la nación,24549000000.0,1308,13.0,Hacienda
+INVERSIÓN,Unidad administrativa especial contaduría general de la nación,8700000000.0,1308,13.0,Hacienda
+FUNCIONAMIENTO,Superintendencia de la economía solidaria,25169000000.0,1309,13.0,Hacienda
+INVERSIÓN,Superintendencia de la economía solidaria,10000000000.0,1309,13.0,Hacienda
+FUNCIONAMIENTO,Unidad administrativa especial dirección de impuestos y aduanas nacionales,4336363532000.0,1310,13.0,Hacienda
+INVERSIÓN,Unidad administrativa especial dirección de impuestos y aduanas nacionales,78629373000.0,1310,13.0,Hacienda
+FUNCIONAMIENTO,Unidad de información y análisis financiero,31256000000.0,1312,13.0,Hacienda
+INVERSIÓN,Unidad de información y análisis financiero,5027100000.0,1312,13.0,Hacienda
+FUNCIONAMIENTO,Superintendencia financiera de colombia,411995624000.0,1313,13.0,Hacienda
+INVERSIÓN,Superintendencia financiera de colombia,61066305153.0,1313,13.0,Hacienda
+FUNCIONAMIENTO,Unidad administrativa especial de gestión  pensional y contribuciones parafiscales de la protección social (ugppp),279210000000.0,1314,13.0,Hacienda
+INVERSIÓN,Unidad administrativa especial de gestión  pensional y contribuciones parafiscales de la protección social (ugppp),7000000000.0,1314,13.0,Hacienda
+FUNCIONAMIENTO,Fondo adaptación,44434000000.0,1315,13.0,Hacienda
+INVERSIÓN,Fondo adaptación,623765525677.0,1315,13.0,Hacienda
+DEUDA,Servicio de la deuda pública nacional,109828422000000.0,1401,14.0,Servicio de la deuda pública nacional
+FUNCIONAMIENTO,Ministerio de defensa nacional,22171364000000.0,1501,15.0,Defensa y policía
+DEUDA,Ministerio de defensa nacional,551476868334.0,1501,15.0,Defensa y policía
+INVERSIÓN,Ministerio de defensa nacional,2099102953143.0,1501,15.0,Defensa y policía
+FUNCIONAMIENTO,Caja de retiro de las fuerzas militares,7731579000000.0,1503,15.0,Defensa y policía
+INVERSIÓN,Caja de retiro de las fuerzas militares,16480000000.0,1503,15.0,Defensa y policía
+FUNCIONAMIENTO,Instituto casas fiscales del ejército,36841000000.0,1507,15.0,Defensa y policía
+INVERSIÓN,Instituto casas fiscales del ejército,38200000000.0,1507,15.0,Defensa y policía
+FUNCIONAMIENTO,"Defensa civil colombiana, guillermo león valencia",44705000000.0,1508,15.0,Defensa y policía
+INVERSIÓN,"Defensa civil colombiana, guillermo león valencia",8000000000.0,1508,15.0,Defensa y policía
+FUNCIONAMIENTO,Club militar de oficiales,55497000000.0,1510,15.0,Defensa y policía
+INVERSIÓN,Club militar de oficiales,4578000000.0,1510,15.0,Defensa y policía
+FUNCIONAMIENTO,Caja de sueldos de retiro de la policía nacional,7327127000000.0,1511,15.0,Defensa y policía
+INVERSIÓN,Caja de sueldos de retiro de la policía nacional,9548000000.0,1511,15.0,Defensa y policía
+FUNCIONAMIENTO,Fondo rotatorio de la policía,307162000000.0,1512,15.0,Defensa y policía
+INVERSIÓN,Fondo rotatorio de la policía,5276235351.0,1512,15.0,Defensa y policía
+FUNCIONAMIENTO,Superintendencia de vigilancia y seguridad privada,33484000000.0,1516,15.0,Defensa y policía
+INVERSIÓN,Superintendencia de vigilancia y seguridad privada,4575000000.0,1516,15.0,Defensa y policía
+FUNCIONAMIENTO,Hospital militar,519740000000.0,1519,15.0,Defensa y policía
+INVERSIÓN,Hospital militar,46400000000.0,1519,15.0,Defensa y policía
+FUNCIONAMIENTO,Agencia logística de las fuerzas militares,1074126000000.0,1520,15.0,Defensa y policía
+INVERSIÓN,Agencia logística de las fuerzas militares,6500000000.0,1520,15.0,Defensa y policía
+FUNCIONAMIENTO,Unidad administrativa especial de la justicia penal militar y policial,175754000000.0,1521,15.0,Defensa y policía
+INVERSIÓN,Unidad administrativa especial de la justicia penal militar y policial,6227362144.0,1521,15.0,Defensa y policía
+FUNCIONAMIENTO,Policía nacional,16568377000000.0,1601,15.0,Defensa y policía
+INVERSIÓN,Policía nacional,238562549467.0,1601,15.0,Defensa y policía
+FUNCIONAMIENTO,Ministerio de agricultura y desarrollo rural,436853554000.0,1701,17.0,Agricultura y desarrollo rural
+INVERSIÓN,Ministerio de agricultura y desarrollo rural,1097072964088.0,1701,17.0,Agricultura y desarrollo rural
+FUNCIONAMIENTO,Instituto colombiano agropecuario (ica),219595508000.0,1702,17.0,Agricultura y desarrollo rural
+INVERSIÓN,Instituto colombiano agropecuario (ica),270668107733.0,1702,17.0,Agricultura y desarrollo rural
+FUNCIONAMIENTO,Autoridad nacional de acuicultura y pesca - aunap,24417000000.0,1715,17.0,Agricultura y desarrollo rural
+INVERSIÓN,Autoridad nacional de acuicultura y pesca - aunap,73520013996.0,1715,17.0,Agricultura y desarrollo rural
+FUNCIONAMIENTO,Unidad administrativa especial de gestión de restitución de tierras despojadas,80608731000.0,1716,17.0,Agricultura y desarrollo rural
+INVERSIÓN,Unidad administrativa especial de gestión de restitución de tierras despojadas,455420835664.0,1716,17.0,Agricultura y desarrollo rural
+FUNCIONAMIENTO,Agencia nacional de tierras - ant,82539448000.0,1717,17.0,Agricultura y desarrollo rural
+INVERSIÓN,Agencia nacional de tierras - ant,1570644076174.0,1717,17.0,Agricultura y desarrollo rural
+FUNCIONAMIENTO,Agencia de desarrollo rural - adr,57526196000.0,1718,17.0,Agricultura y desarrollo rural
+INVERSIÓN,Agencia de desarrollo rural - adr,656674002345.0,1718,17.0,Agricultura y desarrollo rural
+FUNCIONAMIENTO,Ministerio de salud y protección social,63216256287273.0,1901,19.0,Salud y protección social
+INVERSIÓN,Ministerio de salud y protección social,1886900174049.0,1901,19.0,Salud y protección social
+FUNCIONAMIENTO,Instituto nacional de salud (ins),61080047000.0,1903,19.0,Salud y protección social
+INVERSIÓN,Instituto nacional de salud (ins),62680604677.0,1903,19.0,Salud y protección social
+FUNCIONAMIENTO,Superintendencia nacional de salud,239012900000.0,1910,19.0,Salud y protección social
+INVERSIÓN,Superintendencia nacional de salud,87198844691.0,1910,19.0,Salud y protección social
+FUNCIONAMIENTO,Instituto nacional de vigilancia de medicamentos y alimentos - invima,182243290000.0,1912,19.0,Salud y protección social
+INVERSIÓN,Instituto nacional de vigilancia de medicamentos y alimentos - invima,60520761562.0,1912,19.0,Salud y protección social
+FUNCIONAMIENTO,Fondo de previsión social del congreso,434073887000.0,1913,19.0,Salud y protección social
+INVERSIÓN,Fondo de previsión social del congreso,500000000.0,1913,19.0,Salud y protección social
+FUNCIONAMIENTO,Fondo pasivo social de ferrocarriles nacionales de colombia,842723447000.0,1914,19.0,Salud y protección social
+INVERSIÓN,Fondo pasivo social de ferrocarriles nacionales de colombia,1900500000.0,1914,19.0,Salud y protección social
+FUNCIONAMIENTO,Ministerio de minas y energía,213507113200.0,2101,21.0,Minas y energía
+DEUDA,Ministerio de minas y energía,3459701281.0,2101,21.0,Minas y energía
+INVERSIÓN,Ministerio de minas y energía,6651165204240.0,2101,21.0,Minas y energía
+FUNCIONAMIENTO,Servicio geológico colombiano,77090638784.0,2103,21.0,Minas y energía
+INVERSIÓN,Servicio geológico colombiano,100000000000.0,2103,21.0,Minas y energía
+FUNCIONAMIENTO,Unidad de planeación minero energética - upme,37050677000.0,2109,21.0,Minas y energía
+INVERSIÓN,Unidad de planeación minero energética - upme,28045831271.0,2109,21.0,Minas y energía
+FUNCIONAMIENTO,Instituto de planificación y promoción de soluciones energéticas para las zonas no interconectadas - ipse,27129264823.0,2110,21.0,Minas y energía
+INVERSIÓN,Instituto de planificación y promoción de soluciones energéticas para las zonas no interconectadas - ipse,137762840337.0,2110,21.0,Minas y energía
+FUNCIONAMIENTO,Agencia nacional de hidrocarburos - anh,3064210361082.0,2111,21.0,Minas y energía
+INVERSIÓN,Agencia nacional de hidrocarburos - anh,385890000000.0,2111,21.0,Minas y energía
+FUNCIONAMIENTO,Agencia nacional de minería - anm,372516686000.0,2112,21.0,Minas y energía
+INVERSIÓN,Agencia nacional de minería - anm,116615000000.0,2112,21.0,Minas y energía
+FUNCIONAMIENTO,Ministerio de educación nacional,64660612334782.0,2201,22.0,Educación
+INVERSIÓN,Ministerio de educación nacional,5722845061826.0,2201,22.0,Educación
+FUNCIONAMIENTO,Escuela tecnológica instituto técnico central,49826078281.0,2234,22.0,Educación
+INVERSIÓN,Escuela tecnológica instituto técnico central,19207038725.0,2234,22.0,Educación
+FUNCIONAMIENTO,Instituto nacional de formación técnica profesional de san andrés y providencia,8747852389.0,2238,22.0,Educación
+INVERSIÓN,Instituto nacional de formación técnica profesional de san andrés y providencia,8217481969.0,2238,22.0,Educación
+FUNCIONAMIENTO,Instituto nacional de formación técnica profesional de san juan del cesar,11137346365.0,2239,22.0,Educación
+INVERSIÓN,Instituto nacional de formación técnica profesional de san juan del cesar,9388000000.0,2239,22.0,Educación
+FUNCIONAMIENTO,Instituto tolimense de formación técnica profesional,30444508468.0,2241,22.0,Educación
+INVERSIÓN,Instituto tolimense de formación técnica profesional,8184071470.0,2241,22.0,Educación
+FUNCIONAMIENTO,"Instituto técnico nacional de comercio ""simón rodríguez"" de cali",15041341108.0,2242,22.0,Educación
+INVERSIÓN,"Instituto técnico nacional de comercio ""simón rodríguez"" de cali",12125395223.0,2242,22.0,Educación
+FUNCIONAMIENTO,Unidad administrativa especial de alimentación escolar,16318707345.0,2246,22.0,Educación
+INVERSIÓN,Unidad administrativa especial de alimentación escolar,2105728519128.0,2246,22.0,Educación
+FUNCIONAMIENTO,Entes autónomos universitarios estatales - universidades públicas,6437590659064.0,2257,22.0,Educación
+INVERSIÓN,Entes autónomos universitarios estatales - universidades públicas,127332668286.0,2257,22.0,Educación
+FUNCIONAMIENTO,Ministerio de tecnologías de la información y las comunicaciones,127996875000.0,2301,23.0,Tecnologías de la información y las comunicaciones
+FUNCIONAMIENTO,Fondo único de tecnologías de la información y las comunicaciones,599534016000.0,2306,23.0,Tecnologías de la información y las comunicaciones
+INVERSIÓN,Fondo único de tecnologías de la información y las comunicaciones,1551973115714.0,2306,23.0,Tecnologías de la información y las comunicaciones
+FUNCIONAMIENTO,Unidad administrativa especial comisión de regulación de comunicaciones,38833930000.0,2308,23.0,Tecnologías de la información y las comunicaciones
+INVERSIÓN,Unidad administrativa especial comisión de regulación de comunicaciones,18016917000.0,2308,23.0,Tecnologías de la información y las comunicaciones
+FUNCIONAMIENTO,Agencia nacional del espectro - ane,22024741401.0,2309,23.0,Tecnologías de la información y las comunicaciones
+INVERSIÓN,Agencia nacional del espectro - ane,27314426599.0,2309,23.0,Tecnologías de la información y las comunicaciones
+FUNCIONAMIENTO,Computadores para educar (cpe),27442872600.0,2311,23.0,Tecnologías de la información y las comunicaciones
+INVERSIÓN,Computadores para educar (cpe),147562268400.0,2311,23.0,Tecnologías de la información y las comunicaciones
+FUNCIONAMIENTO,Corporación agencia nacional de gobierno digital - and,5231290000.0,2312,23.0,Tecnologías de la información y las comunicaciones
+INVERSIÓN,Corporación agencia nacional de gobierno digital - and,131722000296.0,2312,23.0,Tecnologías de la información y las comunicaciones
+FUNCIONAMIENTO,Ministerio de transporte,315303412000.0,2401,24.0,Transporte
+DEUDA,Ministerio de transporte,6797215826.0,2401,24.0,Transporte
+INVERSIÓN,Ministerio de transporte,129575000000.0,2401,24.0,Transporte
+FUNCIONAMIENTO,Instituto nacional de vías,220812175000.0,2402,24.0,Transporte
+DEUDA,Instituto nacional de vías,601876014.0,2402,24.0,Transporte
+INVERSIÓN,Instituto nacional de vías,3464357634368.0,2402,24.0,Transporte
+FUNCIONAMIENTO,Unidad administrativa especial de la aeronáutica civil,837409834774.0,2412,24.0,Transporte
+INVERSIÓN,Unidad administrativa especial de la aeronáutica civil,2283951000000.0,2412,24.0,Transporte
+FUNCIONAMIENTO,Agencia nacional de infraestructura,134319232110.0,2413,24.0,Transporte
+DEUDA,Agencia nacional de infraestructura,2013839757091.0,2413,24.0,Transporte
+INVERSIÓN,Agencia nacional de infraestructura,7382206818592.0,2413,24.0,Transporte
+FUNCIONAMIENTO,Unidad de planeación del sector de infraestructura de transporte,18098365000.0,2414,24.0,Transporte
+INVERSIÓN,Unidad de planeación del sector de infraestructura de transporte,16500000000.0,2414,24.0,Transporte
+FUNCIONAMIENTO,Comisión de regulación de infraestructura y transporte,1407199000.0,2415,24.0,Transporte
+FUNCIONAMIENTO,Agencia nacional de seguridad vial,29644186000.0,2416,24.0,Transporte
+INVERSIÓN,Agencia nacional de seguridad vial,174455608437.0,2416,24.0,Transporte
+FUNCIONAMIENTO,Superintendencia de puertos y transporte,60447831028.0,2417,24.0,Transporte
+INVERSIÓN,Superintendencia de puertos y transporte,37067526073.0,2417,24.0,Transporte
+FUNCIONAMIENTO,Procuraduría general de la nación,1347128000000.0,2501,25.0,Organismos de control
+INVERSIÓN,Procuraduría general de la nación,96802000000.0,2501,25.0,Organismos de control
+FUNCIONAMIENTO,Defensoría del pueblo,1130439000000.0,2502,25.0,Organismos de control
+INVERSIÓN,Defensoría del pueblo,122300000000.0,2502,25.0,Organismos de control
+FUNCIONAMIENTO,Contraloría general de la república,1307041000000.0,2601,25.0,Organismos de control
+INVERSIÓN,Contraloría general de la república,186701326884.0,2601,25.0,Organismos de control
+FUNCIONAMIENTO,Fondo de bienestar social de la contraloría general de la república,148098000000.0,2602,25.0,Organismos de control
+INVERSIÓN,Fondo de bienestar social de la contraloría general de la república,898818033.0,2602,25.0,Organismos de control
+FUNCIONAMIENTO,Rama judicial,9097188000000.0,2701,27.0,Rama judicial
+DEUDA,Rama judicial,17695578134.0,2701,27.0,Rama judicial
+INVERSIÓN,Rama judicial,1300000000000.0,2701,27.0,Rama judicial
+FUNCIONAMIENTO,Registraduría nacional del estado civil,3088135443035.0,2801,28.0,Registraduría
+INVERSIÓN,Registraduría nacional del estado civil,158698049298.0,2801,28.0,Registraduría
+FUNCIONAMIENTO,Fondo rotatorio de la registraduría,92500584478.0,2802,28.0,Registraduría
+INVERSIÓN,Fondo rotatorio de la registraduría,171718456809.0,2802,28.0,Registraduría
+FUNCIONAMIENTO,Fondo social de vivienda de la registraduría nacional del estado civil,14685380447.0,2803,28.0,Registraduría
+FUNCIONAMIENTO,Consejo nacional electoral- cne,1056216131936.0,2804,28.0,Registraduría
+INVERSIÓN,Consejo nacional electoral- cne,10646765998.0,2804,28.0,Registraduría
+FUNCIONAMIENTO,Fiscalía general de la nación,6214415600000.0,2901,29.0,Fiscalía
+DEUDA,Fiscalía general de la nación,173977914661.0,2901,29.0,Fiscalía
+INVERSIÓN,Fiscalía general de la nación,206231750000.0,2901,29.0,Fiscalía
+FUNCIONAMIENTO,Instituto nacional de medicina legal y ciencias forenses,389542913000.0,2902,29.0,Fiscalía
+INVERSIÓN,Instituto nacional de medicina legal y ciencias forenses,114155647000.0,2902,29.0,Fiscalía
+FUNCIONAMIENTO,Fondo especial para la administración de bienes de la fiscalía general de la nación,19569955000.0,2904,29.0,Fiscalía
+INVERSIÓN,Fondo especial para la administración de bienes de la fiscalía general de la nación,19276000000.0,2904,29.0,Fiscalía
+FUNCIONAMIENTO,Ministerio de ambiente y desarrollo sostenible,413756961050.0,3201,32.0,Ambiente y desarrollo sostenible
+INVERSIÓN,Ministerio de ambiente y desarrollo sostenible,785846835468.0,3201,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,"Instituto de hidrología, meteorología y estudios ambientales - ideam",67307033210.0,3202,32.0,Ambiente y desarrollo sostenible
+INVERSIÓN,"Instituto de hidrología, meteorología y estudios ambientales - ideam",31999229301.0,3202,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Fondo nacional ambiental,98170300000.0,3204,32.0,Ambiente y desarrollo sostenible
+INVERSIÓN,Fondo nacional ambiental,175098406366.0,3204,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de los valles del sinú y san jorge (cvs),4024700000.0,3208,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del quindío (crq),6325400806.0,3209,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación para el desarrollo sostenible del urabá (corpourabá),5049176129.0,3210,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de caldas (corpocaldas),5283500000.0,3211,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional para el desarrollo sostenible del choco (codechoco),99070023380.0,3212,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional para la defensa de la meseta de bucaramanga (cdmb),1702100000.0,3213,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del tolima (cortolima),2926072953.0,3214,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de risaralda (carder),3514167948.0,3215,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de nariño (corponariño),3513251788.0,3216,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de la frontera nororiental (corponor),5315100000.0,3217,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de la guajira (corpoguajira),5048300000.0,3218,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del cesar (corpocesar),4025096652.0,3219,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del cauca (crc),8006600000.0,3221,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del magdalena (corpamag),6650774000.0,3222,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación para el desarrollo sostenible del sur de la amazonia (corpoamazonia),3044415021.0,3223,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación para el desarrollo sostenible del norte y oriente de la amazonia (cda),3250763399.0,3224,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,"Corporación para el desarrollo sostenible del archipiélago de san andrés, providencia y santa catalina (coralina)",3159139259.0,3226,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación para el desarrollo sostenible del área de manejo especial la macarena (cormacarena),3443000000.0,3227,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación para el desarrollo sostenible de la mojana y el san jorge (corpomojana),3107181000.0,3228,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de la orinoquia (corporinoquia),2947800000.0,3229,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de sucre (carsucre),3441456374.0,3230,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del alto magdalena (cam),3275600000.0,3231,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del centro de antioquia (corantioquia),3234214457.0,3232,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del atlántico (cra),2807918000.0,3233,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de santander (cas),3161500000.0,3234,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de boyacá (corpoboyacá),2837208309.0,3235,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional de chivor (corpochivor),3185000000.0,3236,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del guavio (corpoguavio),1014700000.0,3237,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del canal del dique (cardique),3065068000.0,3238,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,Corporación autónoma regional del sur de bolivar (csb),3700700000.0,3239,32.0,Ambiente y desarrollo sostenible
+FUNCIONAMIENTO,"Ministerio de las culturas, las artes y los saberes",292859963090.0,3301,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+INVERSIÓN,"Ministerio de las culturas, las artes y los saberes",651354591139.0,3301,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+FUNCIONAMIENTO,Archivo general de la nación,20106894416.0,3304,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+INVERSIÓN,Archivo general de la nación,34525005387.0,3304,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+FUNCIONAMIENTO,Instituto colombiano de antropología e historia,27730016172.0,3305,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+INVERSIÓN,Instituto colombiano de antropología e historia,33681709185.0,3305,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+FUNCIONAMIENTO,Instituto caro y cuervo,16050094833.0,3307,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+INVERSIÓN,Instituto caro y cuervo,14454263039.0,3307,33.0,"Ministerio de las culturas, las artes y los saberes ancestrales"
+FUNCIONAMIENTO,Auditoría general de la república,63510000000.0,3401,25.0,Organismos de control
+INVERSIÓN,Auditoría general de la república,13000000000.0,3401,25.0,Organismos de control
+FUNCIONAMIENTO,"Ministerio de comercio, industria y turismo",660302227000.0,3501,35.0,"Comercio, industria y turismo"
+INVERSIÓN,"Ministerio de comercio, industria y turismo",198352184065.0,3501,35.0,"Comercio, industria y turismo"
+FUNCIONAMIENTO,Superintendencia de sociedades,194184002000.0,3502,35.0,"Comercio, industria y turismo"
+INVERSIÓN,Superintendencia de sociedades,30696200000.0,3502,35.0,"Comercio, industria y turismo"
+FUNCIONAMIENTO,Superintendencia de industria y comercio,226582198000.0,3503,35.0,"Comercio, industria y turismo"
+INVERSIÓN,Superintendencia de industria y comercio,145087794139.0,3503,35.0,"Comercio, industria y turismo"
+FUNCIONAMIENTO,Unidad administrativa especial junta central contadores,15548661000.0,3504,35.0,"Comercio, industria y turismo"
+INVERSIÓN,Unidad administrativa especial junta central contadores,14000753000.0,3504,35.0,"Comercio, industria y turismo"
+FUNCIONAMIENTO,Instituto nacional de metrología - inm,23980556000.0,3505,35.0,"Comercio, industria y turismo"
+INVERSIÓN,Instituto nacional de metrología - inm,15715756932.0,3505,35.0,"Comercio, industria y turismo"
+FUNCIONAMIENTO,Ministerio del trabajo,46609015048309.0,3601,36.0,Trabajo
+INVERSIÓN,Ministerio del trabajo,440592840646.0,3601,36.0,Trabajo
+FUNCIONAMIENTO,Servicio nacional de aprendizaje (sena),127990194000.0,3602,36.0,Trabajo
+INVERSIÓN,Servicio nacional de aprendizaje (sena),6139428050018.0,3602,36.0,Trabajo
+FUNCIONAMIENTO,Unidad administrativa especial de organizaciones solidarias,10352398000.0,3612,36.0,Trabajo
+INVERSIÓN,Unidad administrativa especial de organizaciones solidarias,45000000000.0,3612,36.0,Trabajo
+FUNCIONAMIENTO,Unidad administrativa especial del servicio público de empleo,15043360000.0,3613,36.0,Trabajo
+INVERSIÓN,Unidad administrativa especial del servicio público de empleo,17000000000.0,3613,36.0,Trabajo
+FUNCIONAMIENTO,Ministerio del interior,1111333500000.0,3701,37.0,Interior
+INVERSIÓN,Ministerio del interior,397622826322.0,3701,37.0,Interior
+FUNCIONAMIENTO,Dirección nacional del derecho de autor,7837900000.0,3703,37.0,Interior
+INVERSIÓN,Dirección nacional del derecho de autor,841000000.0,3703,37.0,Interior
+FUNCIONAMIENTO,Corporación nacional para la reconstrucción de la cuenca del río páez y zonas aledañas nasa ki we,4959010000.0,3704,37.0,Interior
+INVERSIÓN,Corporación nacional para la reconstrucción de la cuenca del río páez y zonas aledañas nasa ki we,10056384633.0,3704,37.0,Interior
+FUNCIONAMIENTO,Unidad nacional de protección - unp,2681558502000.0,3708,37.0,Interior
+DEUDA,Unidad nacional de protección - unp,7809482693.0,3708,37.0,Interior
+INVERSIÓN,Unidad nacional de protección - unp,3000000000.0,3708,37.0,Interior
+FUNCIONAMIENTO,Dirección nacional de bomberos,15484100000.0,3709,37.0,Interior
+INVERSIÓN,Dirección nacional de bomberos,71906000000.0,3709,37.0,Interior
+FUNCIONAMIENTO,Comisión nacional del servicio civil,36967864777.0,3801,5.0,Empleo público
+INVERSIÓN,Comisión nacional del servicio civil,109930103096.0,3801,5.0,Empleo público
+FUNCIONAMIENTO,"Ministerio de ciencia, tecnología e innovación",32876734000.0,3901,39.0,"Ciencia, tecnología e innovación"
+INVERSIÓN,"Ministerio de ciencia, tecnología e innovación",266987639124.0,3901,39.0,"Ciencia, tecnología e innovación"
+FUNCIONAMIENTO,"Ministerio de vivienda, ciudad y territorio",4343076194403.0,4001,40.0,"Vivienda, ciudad y territorio"
+INVERSIÓN,"Ministerio de vivienda, ciudad y territorio",1614293994900.0,4001,40.0,"Vivienda, ciudad y territorio"
+FUNCIONAMIENTO,Fondo nacional de vivienda - fonvivienda,8800000000.0,4002,40.0,"Vivienda, ciudad y territorio"
+INVERSIÓN,Fondo nacional de vivienda - fonvivienda,2659636589387.0,4002,40.0,"Vivienda, ciudad y territorio"
+FUNCIONAMIENTO,Departamento administrativo para la prosperidad social,262123929351.0,4101,41.0,Inclusión social y reconciliación
+INVERSIÓN,Departamento administrativo para la prosperidad social,5399606566879.0,4101,41.0,Inclusión social y reconciliación
+FUNCIONAMIENTO,Unidad de atención y reparación integral a las víctimas,1822309711324.0,4104,41.0,Inclusión social y reconciliación
+INVERSIÓN,Unidad de atención y reparación integral a las víctimas,2488667165115.0,4104,41.0,Inclusión social y reconciliación
+FUNCIONAMIENTO,Centro de memoria histórica,18503458353.0,4105,41.0,Inclusión social y reconciliación
+INVERSIÓN,Centro de memoria histórica,60905600185.0,4105,41.0,Inclusión social y reconciliación
+FUNCIONAMIENTO,Departamento administrativo dirección nacional de inteligencia,155589000000.0,4201,42.0,Inteligencia
+INVERSIÓN,Departamento administrativo dirección nacional de inteligencia,38231000000.0,4201,42.0,Inteligencia
+FUNCIONAMIENTO,Ministerio del deporte,64365817578.0,4301,43.0,Deporte y recreación
+INVERSIÓN,Ministerio del deporte,400000000000.0,4301,43.0,Deporte y recreación
+FUNCIONAMIENTO,Jurisdicción especial para la paz,547711000000.0,4401,44.0,"Sistema integral de verdad, justicia, reparación y no repetición"
+INVERSIÓN,Jurisdicción especial para la paz,189521300973.0,4401,44.0,"Sistema integral de verdad, justicia, reparación y no repetición"
+FUNCIONAMIENTO,Unidad de búsqueda de personas dadas por desaparecidas en el contexto y en razón del conflicto armado (ubpd),117569000000.0,4403,44.0,"Sistema integral de verdad, justicia, reparación y no repetición"
+INVERSIÓN,Unidad de búsqueda de personas dadas por desaparecidas en el contexto y en razón del conflicto armado (ubpd),76273000000.0,4403,44.0,"Sistema integral de verdad, justicia, reparación y no repetición"
+FUNCIONAMIENTO,Ministerio de igualdad y equidad,798523000000.0,4601,46.0,Igualdad y equidad
+INVERSIÓN,Ministerio de igualdad y equidad,498912000000.0,4601,46.0,Igualdad y equidad
+FUNCIONAMIENTO,Instituto colombiano de bienestar familiar (icbf),1151138129543.0,4602,46.0,Igualdad y equidad
+INVERSIÓN,Instituto colombiano de bienestar familiar (icbf),9539621582782.0,4602,46.0,Igualdad y equidad
+FUNCIONAMIENTO,Instituto nacional para sordos (insor),8852229359.0,4603,46.0,Igualdad y equidad
+INVERSIÓN,Instituto nacional para sordos (insor),8358622693.0,4603,46.0,Igualdad y equidad
+FUNCIONAMIENTO,Instituto nacional para ciegos (inci),8306001653.0,4604,46.0,Igualdad y equidad
+INVERSIÓN,Instituto nacional para ciegos (inci),3764015576.0,4604,46.0,Igualdad y equidad
